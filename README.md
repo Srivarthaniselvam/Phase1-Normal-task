@@ -1,6 +1,6 @@
 # Phase1-Normal-task
 
-# Calculato
+# Calculator
 Welcome to My Simple Calculator, a basic calculator program written in Python.
 
  How to Use
